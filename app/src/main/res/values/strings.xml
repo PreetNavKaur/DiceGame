@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="dice1_description">Dice</string>
+    <string name="ulogo_description">Userlogo</string>
+    <string name="dice2_description">Dice</string>
+    <string name="clogo_description">computerlogo</string>
+    <string name="hbtn_description">hbtn</string>
+    <string name="lbtn_description">lbtn</string>
+</resources>
